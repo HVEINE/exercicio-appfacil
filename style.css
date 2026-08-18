@@ -1,0 +1,24 @@
+.parallax{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+}
+
+#parallax-img{
+    background-image: url(img/capa.jpg);
+}
+
+
+
+
+footer p{
+    background-color: grey;
+    color: white;
+    font-size: 10px;
+}
