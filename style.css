@@ -15,10 +15,13 @@
 }
 
 
-
+footer{
+    background-color: gray;
+    padding: 30px;
+    text-align: center;
+}
 
 footer p{
-    background-color: grey;
     color: white;
     font-size: 10px;
 }
